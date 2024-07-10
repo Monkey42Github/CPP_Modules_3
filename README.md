@@ -13,9 +13,6 @@ This repository contains my solutions for Module 03 of the C++ course at 42. Eac
 - **ex02/** : FragTrap class
   - Contains additional files: `FragTrap.hpp`, `FragTrap.cpp`
 
-- **ex03/** : DiamondTrap class
-  - Contains additional files: `DiamondTrap.hpp`, `DiamondTrap.cpp`
-
 Each exXX/ folder includes:
 - **Makefile** : For compiling the project.
 - **main.cpp** : Main test file for the exercise.
